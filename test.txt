@@ -1,0 +1,10 @@
+1.Citizen:
+2.country:
+3.name:
+4.Age:
+5.Gender:
+6.DOB:
+7.Graduation:
+8.School:
+9.Race:
+10.Place of birth:
